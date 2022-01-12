@@ -27,15 +27,14 @@ See the peoject live: https://my-taxi-api-v2.herokuapp.com/
 * Deployment
 
 
-# Create Endpoints request GET & PUSH
-<img src="./resources/images/create-start.jpg">
+# Methods GET & POST
+<img src="./assets/images/img1.jpg">
 
-# Create Endpoints success GET & PUSH
-<img src="./resources/images/create-success.jpg">
+# Methods GET,POST & PUT
+<img src="./assets/images/img2.jpg">
 
-# Update state Endpoints start GET,PUT,DELETE
-<img src="./resources/images/update-state-start.jpg">  
+# Methods GET,POST & PUT
+<img src="./assets/images/img3.jpg">  
 
-# Additional parameters such as "from" and "to" in this case success GET
-<img src="./resources/images/from-to-success.jpg">  
+
 
