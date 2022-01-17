@@ -33,7 +33,7 @@ See the peoject live: https://my-taxi-api-v2.herokuapp.com/
 # Methods GET,POST & PUT
 <img src="./assets/images/img2.jpg">
 
-# Methods GET,POST & PUT
+# Methods GET,POST & PUT.
 <img src="./assets/images/img3.jpg">  
 
 
