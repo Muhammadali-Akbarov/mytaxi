@@ -1,7 +1,7 @@
 # My Taxi Api v2 | Technical Interview 
 Sourcode and Resources for My Taxi Api v2
 <img src="https://disrupt-africa.com/wp-content/uploads/2015/06/mytaxi.jpg">
-See the peoject live: https://my-taxi-api-v2.herokuapp.com/
+
 
 
 # Installation
