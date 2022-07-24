@@ -10,7 +10,7 @@ Sourcode and Resources for MyTaxi
 *  - ```pip3 install virtualenv```
 *  - ```virtualenv venv```
 *  - ```venv\Scripts\activate```(windows) or ```source venv/bin/activate```(linux)
-* 3 - cd into project "cd my-taxi-api-v2"
+* 3 - cd into project "cd mytaxi"
 * 4 - ```pip3 install -r requirements.txt```
 * 5 - ```python3 manage.py runserver```
 
