@@ -1,11 +1,11 @@
-# My Taxi Api v2 | Technical Interview 
-Sourcode and Resources for My Taxi Api v2
+# MyTaxi | Technical Interview 
+Sourcode and Resources for MyTaxi
 <img src="https://disrupt-africa.com/wp-content/uploads/2015/06/mytaxi.jpg">
 
 
 
 # Installation
-* 1 - clone repo https://github.com/Muhammadali-Akbarov/my-taxi-api-v2.git
+* 1 - clone repo https://github.com/Muhammadali-Akbarov/mytaxi
 * 2 - create a virtual environment and activate
 *  - ```pip3 install virtualenv```
 *  - ```virtualenv venv```
