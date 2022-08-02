@@ -7,6 +7,4 @@ def generate_code():
             c = choice([numbers])
             password+=choice(c)
         
-        password
-        
         return password
